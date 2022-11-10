@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/bin/Debug/net6.0/funcs
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/bin/Debug/net6.0/funcs.deps.json
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/bin/Debug/net6.0/funcs.runtimeconfig.json
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/bin/Debug/net6.0/funcs.dll
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/bin/Debug/net6.0/funcs.pdb
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.AssemblyInfo.cs
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.dll
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/refint/funcs.dll
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.pdb
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/funcs.genruntimeconfig.cache
+/Users/macbook/Desktop/KBK_C#/funcs/funcs/obj/Debug/net6.0/ref/funcs.dll
